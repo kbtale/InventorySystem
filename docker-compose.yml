@@ -1,0 +1,44 @@
+services:
+  inv_db:
+    container_name: inv_db
+    image: mariadb:10.6
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpassword
+      MYSQL_DATABASE: invsys
+    volumes:
+      - ./invsys.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - invsys-network
+
+  inv_backend:
+    container_name: inv_backend
+    build: ./backend
+    restart: always
+    environment:
+      - DB_HOST=inv_db
+      - DB_USER=root
+      - DB_PASSWORD=rootpassword
+      - DB_NAME=invsys
+      - PORT=3000
+    depends_on:
+      - inv_db
+    networks:
+      - invsys-network
+    ports:
+      - "3000:3000"
+
+  inv_frontend:
+    container_name: inv_frontend
+    build: .
+    restart: always
+    ports:
+      - "8081:80"
+    depends_on:
+      - inv_backend
+    networks:
+      - invsys-network
+
+networks:
+  invsys-network:
+    driver: bridge

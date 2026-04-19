@@ -31,3 +31,9 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 *.sln
+
+# Secrets
+.env
+.env.*
+backend/.env
+

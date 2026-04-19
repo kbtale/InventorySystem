@@ -11,7 +11,7 @@ import routes from './routes'
  * with the Router instance.
  */
 
-export default route(function (/* { store, ssrContext } */) {
+export default route(function ({ store /*, ssrContext */ }) {
   const createHistory = process.env.SERVER
     ? createMemoryHistory
     : (process.env.VUE_ROUTER_MODE === 'history' ? createWebHistory : createWebHashHistory)
@@ -26,5 +26,23 @@ export default route(function (/* { store, ssrContext } */) {
     history: createHistory(process.env.MODE === 'ssr' ? void 0 : process.env.VUE_ROUTER_BASE)
   })
 
+  Router.beforeEach(async (to, from, next) => {
+    // Check if we need to verify auth status from token on first load
+    if (store.state.user && !store.state.user.isLoggedIn) {
+      await store.dispatch('user/checkAuth')
+    }
+
+    const isAuthenticated = store.state.user?.isLoggedIn
+
+    if (to.matched.some(record => record.meta.requiresAuth) && !isAuthenticated) {
+      next('/login')
+    } else if (to.path === '/login' && isAuthenticated) {
+      next('/')
+    } else {
+      next()
+    }
+  })
+
   return Router
 })
+

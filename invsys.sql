@@ -2054,6 +2054,31 @@ CREATE TABLE `subitemtypes` (
   `fk_idItemtype` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3;
 
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `users`
+--
+
+CREATE TABLE `users` (
+  `idUser` int(11) NOT NULL AUTO_INCREMENT,
+  `Username` varchar(45) NOT NULL,
+  `Password` varchar(255) NOT NULL,
+  `Role` varchar(20) DEFAULT 'user',
+  `Active` tinyint(1) DEFAULT 1,
+  PRIMARY KEY (`idUser`),
+  UNIQUE KEY `Username_UNIQUE` (`Username`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3;
+
+--
+-- Dumping data for table `users`
+--
+
+-- Seed initial admin user
+INSERT INTO `users` (`idUser`, `Username`, `Password`, `Role`, `Active`) VALUES
+(1, 'admin', '$2a$10$vI8tmv9Vk.Tf8/529QyTRee2vQZkoy2o7rQ.m9/eeybL0uInu26r6', 'admin', 1);
+
+
 --
 -- Indexes for dumped tables
 --

@@ -1,24 +1,60 @@
 import { boot } from 'quasar/wrappers'
-import axios from 'axios'
+import { LocalStorage } from 'quasar'
 
-// Be careful when using SSR for cross-request state pollution
-// due to creating a Singleton instance here;
-// If any client changes this (global) instance, it might be a
-// good idea to move this instance creation inside of the
-// "export default () => {}" function below (which runs individually
-// for each client)
-const api = axios.create({ baseURL: 'https://api.example.com' })
+const API_BASE_URL = 'http://localhost:3000/api'
+
+// Centralized API fetcher with safety defaults
+const apiFetch = async (endpoint, options = {}) => {
+  const token = LocalStorage.getItem('auth_token')
+  const defaultHeaders = {
+    'Content-Type': 'application/json',
+    'Authorization': token ? `Bearer ${token}` : ''
+  }
+
+  const response = await fetch(`${API_BASE_URL}${endpoint}`, {
+    ...options,
+    headers: { ...defaultHeaders, ...(options.headers || {}) }
+  })
+
+  // Handle session expiration
+  if (response.status === 401 || response.status === 403) {
+    if (window.location.hash !== '#/login') {
+      LocalStorage.remove('auth_token')
+      window.location.reload() // Force clean state
+    }
+  }
+
+  if (!response.ok) {
+    const errorData = await response.json().catch(() => ({}))
+    throw new Error(errorData.error || `API Error: ${response.statusText}`)
+  }
+
+  return await response.json()
+}
+
+const api = {
+  get: (url) => apiFetch(url, { method: 'GET' }),
+  post: (url, data) => apiFetch(url, { method: 'POST', body: JSON.stringify(data) }),
+  put: (url, data) => apiFetch(url, { method: 'PUT', body: JSON.stringify(data) }),
+  delete: (url) => apiFetch(url, { method: 'DELETE' })
+}
 
 export default boot(({ app }) => {
-  // for use inside Vue files (Options API) through this.$axios and this.$api
+  // Global Diagnostic Handler
+  app.config.errorHandler = (err, instance, info) => {
+    console.error('DIAGNOSTIC CRASH:', err)
+    console.error('Component Instance:', instance)
+    console.error('Error info context:', info)
+  }
+  
+  // BYPASS DEVTOOLS PROXY BUG
+  app.config.devtools = false
 
-  app.config.globalProperties.$axios = axios
-  // ^ ^ ^ this will allow you to use this.$axios (for Vue Options API form)
-  //       so you won't necessarily have to import axios in each vue file
+  window.addEventListener('error', (event) => {
+    console.error('GLOBAL WINDOW ERROR:', event.error)
+  })
 
   app.config.globalProperties.$api = api
-  // ^ ^ ^ this will allow you to use this.$api (for Vue Options API form)
-  //       so you can easily perform requests against your app's API
 })
 
 export { api }

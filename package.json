@@ -2,7 +2,7 @@
   "name": "invsys",
   "version": "0.0.1",
   "description": "A software created for inventory management",
-  "productName": "CEVAZ Inventory System",
+  "productName": "My Inventory System",
   "author": "Carlos Bolívar",
   "private": true,
   "scripts": {
@@ -10,15 +10,16 @@
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
-    "@quasar/extras": "^1.0.0",
-    "axios": "^0.21.1",
+    "@quasar/extras": "^1.16.4",
     "core-js": "^3.6.5",
-    "quasar": "^2.0.0",
+    "quasar": "^2.16.0",
+    "vue": "~3.2.47",
+    "vue-router": "~4.1.6",
     "vuex": "^4.0.1"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.13.14",
-    "@quasar/app": "^3.0.0",
+    "@quasar/app-webpack": "^3.11.0",
     "eslint": "^7.14.0",
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-vue": "^7.0.0",

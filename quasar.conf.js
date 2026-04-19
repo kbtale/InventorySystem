@@ -95,7 +95,11 @@ module.exports = configure(function (ctx) {
       // directives: [],
 
       // Quasar plugins
-      plugins: []
+      plugins: [
+        'Notify',
+        'LocalStorage',
+        'LoadingBar'
+      ]
     },
 
     // animations: 'all', // --- includes all animations
@@ -139,8 +143,8 @@ module.exports = configure(function (ctx) {
       },
 
       manifest: {
-        name: `CEVAZ Inventory System`,
-        short_name: `CEVAZ Inventory System`,
+        name: `My Inventory System`,
+        short_name: `My Inventory System`,
         description: `A software created for inventory management`,
         display: 'standalone',
         orientation: 'portrait',

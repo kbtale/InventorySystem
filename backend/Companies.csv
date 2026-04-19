@@ -1,0 +1,1856 @@
+2Wire;2
+3Com;2
+A10 Networks;2
+ADC Telecommunications;2
+ADTRAN;2
+Aerohive Networks;2
+AirHop Communications;2
+Aironet Wireless Communications;2
+American Photonics;2
+Arista Networks;2
+Array Networks;2
+Aruba Networks;2
+Aryaka;2
+Avaya;2
+Avenda Systems;2
+Barracuda Networks;2
+BATM Advanced Communications;2
+Belkin;2
+BLADE Network Technologies;2
+Blue Sky Network;2
+Broadcom Corporation;2
+Cabletron Systems;2
+Calix Inc.;2
+Cavium;2
+Chipcom;2
+Ciena;2
+Cisco Systems;2
+Cognio;2
+ConSentry Networks;2
+Cortina Systems;2
+Crescendo Networks;2
+Cryptek;2
+Cumulus Networks;2
+DB Networks;2
+Digi International;2
+DZS;2
+Echelon Corporation;2
+Enterasys Networks;2
+Excelan;2
+Extreme Networks;2
+F5 Networks;2
+Fluidmesh;2
+Force10;2
+Fortinet;2
+Foundry Networks;2
+Genband;2
+Global Technology Associates;2
+Hammerhead Networks;2
+Hewlett Packard Enterprise Networking;2
+Infinera;2
+Ipswitch, Inc.;2
+Jasomi Networks;2
+Juniper Networks;2
+Kandy.io;2
+Kemp Technologies;2
+Linksys;2
+LitePoint;2
+Marvell Software Solutions Israel;2
+Mellanox Technologies;2
+Microsemi;2
+Motorola Solutions;2
+Mushroom Networks;2
+Netgear;2
+NextIO;2
+NextWave Wireless;2
+Nexus Hawk;2
+Nomadix;2
+Nortel;2
+Obihai Technology;2
+Open Garden;2
+Overture Networks;2
+P-Com;2
+PacketTrap;2
+Palo Alto Networks;2
+Paradyne;2
+Patton Electronics;2
+Pharsalia Technologies;2
+Pica8;2
+ProCurve;2
+Proofpoint, Inc.;2
+Proteon;2
+Proxim Wireless;2
+QLogic;2
+Radware;2
+Raytheon BBN Technologies;2
+Red Condor;2
+Ribbon Communications;2
+Riverstone Networks;2
+SendThisFile;2
+SolarWinds;2
+SonicWall;2
+Spam Cube;2
+Starent Networks;2
+Switch (company);2
+Talari Networks;2
+Tenda;2
+ThousandEyes;2
+TRENDnet;2
+Ubiquiti;2
+USRobotics;2
+Vectra AI;2
+Ventus (wireless company);2
+Vitesse Semiconductor;2
+Vyatta;2
+WatchGuard;2
+Wellfleet Communications;2
+Xsigo Systems;2
+JPMorgan Chase;1
+Berkshire Hathaway;1
+Agricultural Bank of China;1
+Saudi Arabian Oil Company (Saudi Aramco);3
+Ping An Insurance Group;1
+Bank of America;1
+Apple;2
+Bank of China;1
+AT&T;4
+Toyota Motor;5
+Alphabet;2
+ExxonMobil;3
+Microsoft;2
+Samsung Electronics;2
+Wells Fargo;1
+Citigroup;1
+Walmart;5
+Verizon Communications;4
+Royal Dutch Shell;3
+Amazon;5
+Volkswagen Group;5
+UnitedHealth Group;6
+Allianz;1
+China Merchants Bank;1
+Comcast;5
+China Mobile;4
+Total;3
+Postal Savings Bank Of China (PSBC);1
+Alibaba Group;7
+Gazprom;3
+PetroChina;3
+Johnson & Johnson;6
+RBC;1
+Walt Disney;5
+China Life Insurance;1
+Intel;2
+Facebook;2
+CVS Health;7
+Nestlé;7
+BNP Paribas;1
+Nippon Telegraph & Tel;4
+HSBC Holdings;1
+Bank of Communications;1
+TD Bank Group;1
+Goldman Sachs Group;1
+Morgan Stanley;1
+Pfizer;6
+Tencent Holdings;2
+IBM;2
+Mitsubishi UFJ Financial;1
+General Electric;8
+Rosneft;3
+Santander;1
+Anheuser-Busch InBev;7
+Industrial Bank;1
+Reliance Industries;3
+Sony;5
+Sinopec;3
+Chevron;3
+Siemens;8
+Cigna;6
+AXA Group;1
+Shanghai Pudong Development;1
+AIA Group;1
+Softbank;4
+Novartis;6
+Deutsche Telekom;4
+Petrobras;3
+Procter & Gamble;7
+Japan Post Holdings;1
+LVMH Moët Hennessy Louis Vuitton;12
+Roche Holding;6
+BMW Group;5
+Zurich Insurance Group;1
+CITIC;9
+Itaú Unibanco Holding;1
+China State Construction Engineering;8
+MetLife;1
+Sumitomo Mitsui Financial;1
+Cisco Systems;2
+Honda Motor;5
+Commonwealth Bank;1
+Bank of Nova Scotia;1
+Raytheon Technologies;2
+PepsiCo;7
+American Express;1
+General Motors;5
+China Minsheng Bank;1
+British American Tobacco;7
+Merck & Co.;6
+BHP Group;9
+Oracle;2
+Brookfield Asset Management;1
+Coca-Cola;7
+Enel;10
+GlaxoSmithKline;6
+LukOil;3
+China Vanke;1
+Banco Bradesco;1
+Bayer;9
+US Bancorp;1
+Mitsubishi;8
+Anthem;6
+Home Depot;5
+BASF;9
+Taiwan Semiconductor;2
+UBS;1
+Unilever;7
+Country Garden Holdings;1
+EDF;10
+China Citic Bank;1
+Rio Tinto;9
+Lloyds Banking Group;1
+Prudential Financial;1
+Sanofi;6
+Credit Agricole;1
+AbbVie;6
+Iberdrola;10
+Hon Hai Precision;2
+KDDI;4
+Enbridge;3
+Manulife;1
+Intesa Sanpaolo;1
+CNOOC;3
+Dell Technologies;2
+Westpac Banking Group;1
+Medtronic;6
+China Pacific Insurance;1
+SAIC Motor;5
+Bank of Montreal;1
+Caterpillar;8
+Chubb;1
+Itochu;8
+Walgreens Boots Alliance;7
+VINCI;8
+Bristol-Myers Squibb;6
+PNC Financial Services;1
+Generali Group;1
+Visa;1
+Costco Wholesale;5
+United Parcel Service;8
+Duke Energy;10
+Lockheed Martin;8
+HDFC Bank;1
+Allstate;1
+China Everbright Bank;1
+Charter Communications;5
+SAP;2
+Tokio Marine Holdings;1
+CK Hutchison;8
+Honeywell International;8
+China Evergrande Group;1
+American International Group;1
+Orange;4
+América Móvil;4
+Abbott Laboratories;6
+Bank of New York Mellon;1
+Credit Suisse Group;1
+Capital One Financial;1
+Amgen;6
+Truist Financial;1
+ANZ;1
+Equinor;3
+Mitsui;8
+Oversea-Chinese Banking;1
+China Shenhua Energy;9
+Exelon;10
+PTT;8
+State Bank of India;1
+Poly Developments & Holdings Group;1
+Lowe's;5
+China Telecom;4
+Southern Company;10
+L'Oréal;11
+BlackRock;1
+Linde;9
+Canadian Imperial Bank;1
+NextEra Energy;10
+Barclays;1
+Deere & Company;8
+Union Pacific;8
+Thermo Fisher Scientific;8
+Deutsche Post;8
+Gilead Sciences;6
+Phillips 66;3
+Mondelez International;7
+Hyundai Motor;5
+Qatar National Bank;1
+NAB - National Australia Bank;1
+Broadcom;2
+Legal & General Group;1
+ING Group;1
+3M;8
+Target;5
+Marathon Petroleum;3
+Hitachi;2
+Progressive;1
+DBS;1
+ConocoPhillips;3
+UniCredit;1
+Philip Morris International;7
+China Railway Group;8
+Accenture;2
+Munich Re;1
+Royal Bank of Scotland;1
+Banco do Brasil;1
+McDonald's;5
+China Resources Land;1
+China Railway Construction;8
+Saudi Basic Industries;9
+Aviva;1
+General Dynamics;8
+MS&AD Insurance;1
+PICC;1
+Aflac;1
+E.ON;10
+Travelers;1
+Prudential;1
+Eli Lilly;6
+Kraft Heinz Company;7
+Sunac China Holdings;8
+Charles Schwab;1
+HCA Healthcare;6
+Danaher;8
+Schneider Electric;8
+Société Générale;1
+Midea Group;5
+Dai-ichi Life Insurance;1
+ENGIE;10
+Fiat Chrysler Automobiles;5
+Volvo Group;8
+Seven & I Holdings;7
+Humana;6
+Longfor Group Holdings;1
+AstraZeneca;6
+JD.com;5
+Air Liquide;9
+Fresenius;6
+Northrop Grumman;8
+Mizuho Financial;1
+Sun Life Financial;1
+Inditex;5
+Nike;5
+Gree Electric Appliances;5
+Central Japan Railway;8
+Danone;7
+PayPal;1
+Cathay Financial;1
+Surgutneftegas;3
+Suncor Energy;3
+Standard Chartered;1
+Tesco;7
+ICICI Bank;1
+Panasonic;5
+Safran;8
+Qualcomm;2
+Royal Ahold Delhaize N.V.;7
+KBC Group;1
+East Japan Railway;8
+National Grid;10
+Delta Air Lines;8
+Peugeot;5
+Telefónica;4
+Kroger;7
+China Communications Construction;8
+Shinhan Financial Group;1
+Oil & Natural Gas;3
+Sun Hung Kai Properties;1
+Huaxia Bank;1
+Fubon Financial;1
+Diageo;7
+Anglo American;9
+Mastercard;1
+Dominion Energy;10
+Micron Technology;2
+KB Financial Group;1
+HDFC;1
+LafargeHolcim;9
+United Overseas Bank;1
+Bank of Beijing;1
+Japan Tobacco;7
+Netflix;5
+Centene;6
+China Unicom;4
+Jardine Matheson;8
+Starbucks;5
+American Electric;10
+Sumitomo;8
+Nordea Bank;1
+Orix;1
+TJX Cos;5
+Mitsubishi Electric;8
+State Street;1
+SK Hynix;2
+RWE Group;10
+ABB;8
+Nomura;1
+BCE;4
+Automatic Data Processing;5
+HP;2
+First Abu Dhabi Bank;1
+EssilorLuxottica;6
+Henkel;7
+Canadian Natural Resources;3
+Greenland Holdings Group;1
+EMD Group;2
+Swiss Re;1
+Bank Of Shanghai;1
+Archer Daniels Midland;7
+Anhui Conch Cement;9
+Ecopetrol;3
+BT Group;4
+Poste Italiane;1
+Novatek;3
+TC Energy;10
+CRH;9
+Macquarie Group;1
+BBVA-Banco Bilbao Vizcaya;1
+JXTG Holdings;3
+Kering;5
+Baoshan Iron & Steel;9
+Daiwa House Industry;8
+Couche Tard;7
+Daimler;5
+Bridgestone;5
+Fannie Mae;1
+Tyson Foods;7
+New China Life Insurance;1
+Saint-Gobain;9
+CSX;8
+DNB;1
+Novo Nordisk;6
+Saudi Telecom;4
+LyondellBasell Industries;9
+EOG Resources;3
+Sempra Energy;10
+Eaton;8
+Freddie Mac;1
+Heineken;7
+Kweichow Moutai;7
+CK Asset Holdings;1
+Becton Dickinson;6
+Stryker;6
+CRRC;8
+Bank Rakyat Indonesia (BRI);1
+China Merchants Shekou Industrial Zone Holdings;1
+Maybank;1
+Kinder Morgan;3
+Emirates NBD;1
+Marsh & McLennan;1
+Ameriprise Financial;1
+Dollar General;5
+Shin-Etsu Chemical;9
+Barrick Gold;9
+BP;3
+Etisalat;4
+Canon;8
+Sompo;1
+ASML Holding;2
+Natixis;1
+Vivendi;4
+Swiss Life Holding;1
+Posco;9
+Biogen;6
+Mitsui Fudosan;1
+Canadian National Railway;8
+Booking Holdings;5
+NN Group;1
+Fosun International;9
+Wilmar International;7
+General Mills;7
+Carrefour;7
+Daikin Industries;9
+Tata Consultancy Services;2
+Power Corp of Canada;1
+Boston Scientific;6
+Discover Financial Services;1
+Synchrony Financial;1
+Michelin Group;5
+Paccar;8
+Sumitomo Mitsui Trust;1
+Xiaomi;2
+Hartford Financial Services;1
+Philips;8
+IntercontinentalExchange;1
+Norfolk Southern;8
+BAE Systems;8
+Indian Oil;3
+Bank of Ningbo;1
+Sysco;7
+CNP Assurances;1
+Denso;5
+Newmont Mining;9
+National Commercial Bank;1
+Adidas;5
+CTBC Financial;1
+Danske Bank;1
+China National Building;9
+Richemont;5
+Sberbank;1
+VMware;2
+Nippon Steel;9
+Komatsu;8
+Transneft;3
+Talanx;1
+Xcel Energy;10
+Consolidated Edison;10
+Naturgy Energy Group;10
+Fiserv;2
+Bank Of Jiangsu;1
+Boeing;8
+Waste Management;8
+Woolworths;7
+Texas Instruments;2
+Hyundai Mobis;5
+Adobe;2
+DuPont de Nemours;9
+Hana Financial Group;1
+L3Harris Technologies;2
+Fujitsu;2
+Shimao Property Holdings;1
+Norilsk Nickel;9
+Imperial Brands;7
+China Zheshang Bank;1
+Tokyo Electric Power;10
+Fast Retailing;5
+Emerson Electric;8
+Toyota Industries;5
+Femsa;7
+Hewlett Packard Enterprise;2
+China Yangtze Power;10
+Recruit Holdings;5
+Keurig Dr Pepper;7
+Applied Materials;2
+Edison International;10
+Principal Financial Group;1
+AIRBUS;8
+CME Group;1
+OMV Group;3
+Marubeni;8
+AmerisourceBergen;6
+Larsen & Toubro;8
+Bouygues;8
+Nutrien;3
+Kansai Electric Power;10
+Sherwin-Williams;5
+Fujifilm Holdings;5
+American Tower;1
+Pernod Ricard;7
+VTB Bank;1
+Telstra;4
+Lennar;8
+Chubu Electric Power;10
+Ecolab;9
+Cummins;8
+Marriott International;5
+SEB AB;1
+Investor AB;1
+JBS;7
+CaixaBank;1
+National Bank of Canada;1
+Svenska Handelsbanken;1
+Vodafone;4
+Sampo;1
+Power Construction Corporation of China;8
+Carnival;5
+Eni;3
+The Estée Lauder Companies;11
+Fifth Third Bank;1
+ViacomCBS;5
+Al Rajhi Bank;1
+China Fortune Land Development;8
+Kimberly-Clark;7
+Fortescue Metals Group;9
+Public Service Enterprise Group;10
+KIA Motors;5
+Subaru;5
+Suzuki Motor;5
+Mitsubishi Heavy Industries;8
+Southwest Airlines;8
+Mitsubishi Estate;1
+Glencore International;9
+Aon;5
+Ford Motor;5
+Bank Central Asia;1
+Thales;8
+NVIDIA;2
+Suning.com;5
+Takeda Pharmaceutical;6
+EnBW-Energie Baden;10
+Valero Energy;3
+Colgate-Palmolive;7
+Bank Mandiri;1
+H&M - Hennes & Mauritz;5
+NTPC;10
+Murata Manufacturing;2
+SingTel;4
+Las Vegas Sands;5
+Magna International;5
+Weichai Power;8
+Fairfax Financial;1
+China Tower Corp.;4
+Compass Group;5
+Entergy;10
+Erste Group Bank;1
+Toyota Tsusho;8
+Citic Securities;1
+Samsung C&T;8
+Illinois Tool Works;8
+Nissan Motor;5
+FedEx;8
+Vale;9
+eBay;5
+Wesfarmers;7
+Bank of Nanjing;1
+M&G;1
+Asahi Group Holdings;7
+Atlantia;8
+DTE Energy;10
+Kotak Mahindra Bank;1
+Aegon;1
+Carrier Global;5
+United Airlines Holdings;8
+Northern Trust;1
+Swisscom;4
+CNH Industrial;8
+Kubota;8
+Samsung Life Insurance;1
+Best Buy;2
+Haier Smart Home;5
+Cognizant;2
+Nintendo;5
+McKesson;6
+FirstRand;1
+China Cinda Asset Management;1
+Hengli Petrochemical;8
+Tatneft;3
+Tenaga Nasional;10
+SK Holdings;3
+Deutsche Bank;1
+M&T Bank;1
+Standard Bank Group;1
+China Taiping Insurance;1
+Telecom Italia;4
+Astellas Pharma;6
+Veolia Environnement;10
+Grupo Mexico;9
+Kyocera;2
+Rogers Communications;4
+Loews;1
+Trane Technologies;2
+Air Products & Chemicals;9
+Aeon;7
+Sinopharm Group;6
+PPL;10
+EXOR;1
+RELX;2
+Lincoln National;1
+Allergan;6
+NetEase;2
+Naspers;5
+Grupo ACS;8
+TELUS;4
+MTR;8
+KeyCorp;1
+Prologis;1
+Evonik;9
+Citizens Financial Group;1
+D.R. Horton;8
+Dow;9
+Orsted;3
+Willis Towers Watson;1
+DISH Network;5
+Athene Holding;1
+Swedbank;1
+Salesforce.com;2
+Altria Group;7
+Otsuka Holding;6
+Eversource Energy;10
+Sekisui House;8
+Parker-Hannifin;8
+Discovery;5
+Banorte;1
+Tesla;5
+TD Ameritrade Holding;1
+Baxter International;6
+Deutsche Boerse;1
+Saudi Electricity;10
+Associated British Foods;7
+Sumitomo Realty;1
+WH Group;7
+Korea Electric Power;10
+Williams;3
+WEC Energy Group;10
+Inpex;3
+Edp-energias De Portugal;10
+Mitsubishi Chemical;9
+Dollar Tree;5
+Bharat Petroleum;3
+Infosys;2
+MGM Resorts;5
+Kao;7
+International Paper;9
+CGN Power;10
+Formosa Petrochemical;3
+PPG;9
+Swire Pacific;8
+Coca-Cola European Partners;7
+CSL;6
+Coal India;9
+Woori Financial Group;1
+Daiichi Sankyo;6
+SK Telecom;4
+Fox;5
+Crown Castle International;4
+Ageas;1
+Republic Services;8
+Metallurgical Corp of China;8
+Neste;3
+Møller-Maersk;8
+CBRE Group;1
+International Airlines;8
+Nokia;2
+Omnicom Group;5
+Essity Ab;7
+Ross Stores;5
+Industrial Bank of Korea;1
+Schlumberger;3
+Deutsche Lufthansa;8
+Stanley Black & Decker;7
+Wheelock;1
+Asahi Kasei;9
+Kellogg;7
+SSE;10
+Daqin Railway;8
+Haitong Securities;1
+Fidelity National Information;5
+Henderson Land;1
+Regions Financial;1
+JFE Holdings;9
+NEC;2
+Capgemini;2
+Repsol;3
+Continental;5
+Regeneron Pharmaceuticals;6
+New World Development;1
+Royal Caribbean Cruises;5
+ArcelorMittal;9
+Reckitt Benckiser Group;7
+Vonovia;8
+Fortis (Canada);10
+Resona Holdings;1
+FirstEnergy;10
+Ally Financial;1
+Zimmer Biomet;6
+Atlas Copco;8
+Lam Research;2
+CLP Holdings;10
+Cardinal Health;6
+Activision Blizzard;5
+West Japan Railway;8
+Public Bank;1
+WPP;5
+CarMax;5
+CNPC Capital;8
+Simon Property Group;1
+Occidental Petroleum;3
+London Stock Exchange;1
+Eiffage;8
+TE Connectivity;2
+Sodexo;5
+Sumitomo Electric;5
+Porsche Automobil Holding;5
+Reinsurance Group of America;1
+National Bank of Kuwait;1
+HeidelbergCement;9
+AutoZone;5
+Nidec;8
+Lenovo Group;2
+Johnson Controls International;5
+Unipol Gruppo;1
+S.F. Holding;5
+First Republic Bank;1
+Xiamen C&D;8
+Beijing-Shanghai High-Speed Railway;8
+Hong Kong Exchanges;1
+CIMB Group Holdings;1
+WestRock;9
+Telenor;4
+Commerzbank;1
+Siam Cement;9
+Tokyo Electron;2
+Dongfeng Motor Group;5
+Gemdale;1
+Seazen Group;5
+Huatai Securities;1
+Wens Foodstuff Group;7
+Bharti Airtel;4
+China Energy Engineering;8
+Nucor;9
+Sany Heavy Industry;8
+Ericsson;2
+Baidu;2
+Kirin Holdings;7
+SM Investments;5
+Telkom Indonesia;4
+Riyad Bank;1
+Legend Holding;2
+Grupo Aval;1
+Ferguson;9
+Uber;5
+Kasikornbank;1
+DP World;8
+Geely Automobile Holdings;5
+Credicorp;1
+Isbank;1
+LG Chem;9
+Analog Devices;2
+Guangzhou R&F;1
+Eletrobrás;10
+Coles Group;7
+Hermès International;11
+Raiffeisen Bank International;1
+S&P Global;5
+Axis Bank;1
+Samsung Fire & Marine;1
+Carlsberg;7
+Mega Financial Holding;1
+China Reinsurance Group;1
+Grupa PZU;1
+Mapfre;1
+Keyence;2
+Raymond James Financial;1
+Hikvision;2
+Thomson Reuters;5
+VF;5
+Aptiv;5
+Conagra Brands;7
+T&D Holdings;1
+Canadian Pacific Railway;8
+Link REIT;1
+CenturyLink;4
+Siam Commercial Bank;1
+O'Reilly Automotive;5
+CenterPoint Energy;10
+Wanhua Chemical Group;9
+Corteva;8
+Vestas Wind Systems;8
+Guotai Junan Securities;1
+Shengjing Bank;1
+Huntington Bank;1
+Bâloise Group;1
+Fortum;10
+Vistra Energy;10
+Roper Technologies;8
+Otis Worldwide;8
+Arch Capital Group;1
+Shenzhen Overseas;5
+CapitaLand;1
+Rosseti;10
+Infineon Technologies;2
+Intuit;2
+Formosa Chemicals;9
+Kone;8
+Unum;1
+Wuliangye Yibin;7
+Publicis Groupe;5
+LG Electronics;5
+Cheniere Energy;3
+Huishang Bank;1
+Logan Property Holdings;1
+UPM-Kymmene;9
+PKN Orlen;3
+Abu Dhabi Commercial Bank;1
+Suncorp Group;1
+Zijin Mining Group;9
+ZTE;2
+Samba Financial Group;1
+Telia;4
+Kuehne & Nagel International;8
+CP All;7
+Teva Pharmaceutical;6
+Voya Financial;1
+TDK;2
+DSM;6
+China Coal Energy;9
+George Weston;7
+Bank Of Hangzhou;1
+Absa Group;1
+Inner Mongolia Yili;7
+Secom;8
+Pioneer Natural Resources;3
+Hilton;5
+Alexion Pharmaceuticals;6
+Renault;5
+Shin Kong Financial;1
+Garanti Bank;1
+Obayashi;8
+Kuwait Finance House;1
+Nan Ya Plastics;9
+Ball;9
+Deutsche Wohnen;8
+Shaanxi Coal Industry;9
+Meituan Dianping;2
+Restaurant Brands International;5
+Chunghwa Telecom;4
+HCL Technologies;2
+Ameren;10
+Schindler Holding;8
+Zoetis;6
+Oneok;3
+Saudi British Bank;1
+Chongqing Rural Bank;1
+Ryanair Holdings;8
+BOE Technology Group;2
+Idemitsu Kosan;3
+Toshiba;2
+Power Finance;5
+Asr Nederland;1
+STMicroelectronics;2
+Assa Abloy;8
+QBE Insurance Group;1
+Equitable Holdings;1
+Phoenix Group Holdings;1
+CDW;2
+Tata Steel;9
+Hormel Foods;7
+Toray Industries;9
+Rakuten;5
+BYD;5
+Whirlpool;5
+CMS Energy;10
+Quanta Computer;2
+Koç Holding;8
+Banco de Sabadell;1
+Formosa Plastics;9
+Amphenol;2
+Seagate Technology;2
+OTP Bank;1
+Luxshare Precision Industry;2
+SVB Financial Group;1
+Uni-President;7
+Power Grid of India;10
+Bank Leumi;1
+DSV Panalpina;8
+Hershey;7
+Electronic Arts;5
+Akbank;1
+Hanwha;8
+American Financial Group;1
+Genuine Parts;5
+Trip.com Group;5
+Bangkok Bank;1
+Bancolombia;1
+United Rentals;1
+China Gas Holdings;10
+Global Payments;5
+Fortive;8
+Leonardo;8
+China Jinmao;1
+Equinix;1
+Old Mutual;1
+China Eastern Airlines;8
+Freeport-McMoRan;9
+Jinke Property Group;5
+DaVita;6
+Sandvik;8
+MediaTek;2
+China Gezhouba;8
+RiseSun Real Estate Development;8
+Intact Financial;1
+Tohoku Electric Power;10
+New Hope Liuhe;7
+ASE Technology Holding;2
+Towngas;10
+Corning;2
+T Rowe Price;1
+Liberty Global;5
+Snam;10
+Equity Residential;1
+Pembina Pipeline;3
+Baker Hughes Company;3
+NRG Energy;10
+Sabanci Holding;8
+NortonLifeLock;2
+Shiseido;7
+St. James's Place;1
+Sanlam;1
+Vedanta Limited;9
+China National Nuclear Power;10
+Expedia Group;5
+Taisei;8
+TransDigm Group;8
+Everest Re Group;1
+Sumitomo Chemical;9
+Aisin Seiki;5
+IQVIA;6
+Pegatron;2
+E.Sun Financial;1
+Guangzhou Automobile Group;5
+CEZ Group;10
+Wipro;2
+Beiersdorf;7
+Guangzhou Rural Commercial Bank;1
+ITC;7
+CIFI Holdings Group;8
+China Southern Airlines;8
+Yanzhou Coal Mining;9
+Nedbank;1
+E-Trade Financial;1
+Motorola Solutions;8
+Daiwa Securities;1
+Vertex Pharmaceuticals;6
+Gallagher;1
+Moody's;5
+Western Digital;2
+GF Securities;1
+Akzo Nobel;9
+Rolls-Royce Holdings;8
+Alleghany;1
+WW Grainger;8
+BAIC Motor;5
+Shanghai International Port;8
+Stora Enso;9
+Fukuoka Financial Group;1
+Constellation Brands;7
+SK Innovation;3
+Tokyo Gas;10
+Kajima;8
+Air Canada;8
+Dubai Islamic Bank;1
+Banque Saudi Fransi;1
+Itaúsa;8
+Lonza Group;9
+BDO Unibank;1
+Joint Stock Commercial Bank for Foreign Trade of Vietnam;1
+Iliad;2
+First Financial Holding;1
+Banco BPM;1
+Shimizu;8
+Aena;8
+Agile Group Holdings;1
+Contemporary Amperex Technology;9
+Isuzu Motors;5
+Legrand;8
+Digital Realty Trust;1
+Mazda Motor;5
+Scor;1
+Japan Airlines;8
+Bajaj Finserv;1
+Cintas;5
+Intuitive Surgical;6
+Chugoku Electric Power;10
+Altice USA;5
+CGI Group;2
+PKO Bank Polski;1
+Grifols;6
+Sika;9
+Huaneng Power International;10
+Japan Exchange Group;1
+Suntory Beverage & Food;7
+Muyuan Foodstuff;7
+Hindalco Industries;9
+Sharp;5
+American Airlines Group;8
+Amadeus IT Group;2
+Molina Healthcare;6
+Novolipetsk Steel;9
+Hoya;2
+Yara International;9
+Qatar Islamic Bank;1
+Galaxy Entertainment;5
+Welltower;1
+China Development Financial;1
+Helvetia Holding;1
+China Hongqiao Group;9
+Tokyu;8
+Adecco;5
+Emaar Properties;1
+KT;4
+Public Storage;1
+AvalonBay Communities;1
+IHS Markit;5
+Taiwan Cooperative Financial;1
+PG&E;10
+Toppan Printing;5
+Mitsubishi UFJ Lease;1
+Yum! Brands;5
+Turkish Airlines;8
+Amcor;9
+Boston Properties;1
+Osaka Gas;10
+Financiere de l'Odet;8
+ENN Energy Holdings;10
+Leidos;8
+Vornado Realty;1
+China Merchants Securities;1
+Macy's;5
+Alcon;6
+EN+ Group International;3
+Thai Beverage;7
+Gecina;1
+VakifBank;1
+Edwards Lifesciences;6
+ATOS;2
+Skanska;8
+Shanghai Pharmaceuticals;7
+American Water Works;10
+Halliburton;3
+China Life Insurance (Taiwan);1
+Arab National Bank;1
+Randstad N.V.;8
+KLA;2
+Zhongsheng Group Holdings;5
+Guosen Securities;1
+Twitter;2
+China Huarong Asset Management;1
+Dassault Systemes;2
+Polyus;9
+Bank Hapoalim;1
+Grupo Elektra;2
+Finatis;7
+NXP Semiconductors;2
+Aroundtown;1
+China Mengniu Dairy;7
+Jiangsu Zhongnan Construction Group;8
+Evergy;10
+Givaudan;7
+JM Smucker;7
+iA Financial Corporation;1
+WR Berkley;1
+SMC;8
+ThyssenKrupp Group;8
+AMP;1
+Tata Motors;5
+Illumina;6
+Advanced Micro Devices;2
+Microchip Technology;2
+Pan Pacific International Holdings;5
+Shanghai Construction;8
+China Resources Power;10
+MOL Hungarian Oil;3
+Clorox;7
+Krung Thai Bank;1
+Kerry Group;7
+BBMG;9
+Monster Beverage;7
+HAL Trust;1
+Severstal;9
+Genworth Financial;1
+Bank Negara Indonesia;1
+Terumo;6
+Bank of Greece;1
+Eastman Chemical;9
+Quest Diagnostics;6
+J Sainsbury;7
+Shanghai Electric Group;8
+Grasim Industries;9
+Eisai;6
+Jefferies Financial;8
+Bank of Baroda;1
+Rockwell Automation;8
+Ashtead Group;5
+Jiangsu Hengrui Medicine;6
+Rongsheng Petrochemical;5
+Advanced Info Service;4
+Tokyo Century;1
+Align Technology;6
+Charoen Pokphand Foods;7
+Beijing Enterprises;10
+Foshan Haitian Flavouring and Food;7
+Yuanta Financial Holding;1
+Mediobanca;1
+Swatch Group;5
+Julius Baer Group;1
+Lundbergs;1
+Hua Nan Financial;1
+Paychex;5
+Terna;10
+Yango Group;5
+GD Power Development;10
+LabCorp;6
+Sun Art Retail Group;7
+Jeronimo Martins;7
+Fanuc;8
+Marvell Technology Group;2
+China Resources Pharmaceutical Group;6
+ServiceNow;2
+Lear;5
+Delta Electronics;2
+Markel;1
+TUI;5
+Inter Rao;10
+Air France-KLM;8
+Falabella;5
+SDIC Power Holdings;10
+Hankyu Hanshin Holdings;8
+Universal Health;6
+Yum China Holdings;5
+UCB;6
+Metro;7
+Mylan;6
+PulteGroup;8
+CJ Corporation;7
+Investec;1
+Knorr-Bremse;8
+Sojitz;8
+Vipshop Holdings;5
+Altice Europe;5
+Textron;8
+Brown-Forman;7
+Assurant;1
+Ferrovial;8
+JSW Steel;9
+Olympus;5
+Bank of Ireland;1
+Lotte Chemical;9
+LG Household & Health Care;7
+AES;10
+Bank Of Guiyang;1
+Kyushu Electric Power;10
+Alinma Bank;1
+Crown Holdings;9
+China Steel;9
+Cadence Design;2
+Kohl's;5
+Bank of Tianjin;1
+Shenzhen Mindray Bio-Medical Electronics;6
+Vienna Insurance Group;1
+Agilent Technologies;2
+Cosco Shipping;8
+Airports of Thailand;8
+Jiangsu Yanghe Brewery;7
+Fastenal;5
+All Nippon Airways;8
+Attijariwafa Bank;1
+X5 Retail Group;7
+SGS;5
+LG;5
+C.H. Robinson;8
+Dover;8
+Csc Financial;1
+Interpublic Group;5
+Dassault Aviation;8
+NVR;8
+Origin Energy;10
+Ferrari;5
+Waste Connections;8
+Bio-Rad Laboratories;6
+China Aoyuan Group;8
+FleetCor Technologies;5
+Comerica;1
+Singapore Airlines;8
+Experian;5
+Kaisa Group Holdings;1
+Molson Coors Brewing;7
+AerCap Holdings;8
+Inner Mongolia Baotou Steel;9
+Ametek;8
+Shionogi;6
+NASDAQ;1
+Shenwan Hongyuan Group;1
+Bank of Changsha;1
+Techtronic Industries;7
+Huadian Power International;10
+Aluminum Corp of China;9
+Korea Gas;10
+Top Frontier Investment Holdings;3
+Bank Of Chengdu;1
+Mitsubishi Motors;5
+Scentre Group;1
+Partners Group Holding;1
+LKQ;5
+VeriSign;2
+Ulta Beauty;5
+Globe Life;1
+Brighthouse Financial;1
+Longi Green Energy Technology;2
+LARGAN Precision;8
+Campbell Soup;7
+McCormick;7
+Anta Sports Products;5
+MTN Group;4
+Solvay;9
+Nitori Holdings;5
+Schroders;1
+Mondi;9
+HollyFrontier;3
+GS Holdings;3
+Quilter;11
+Ricoh;8
+China International Capital;1
+Galp Energia;3
+Centrica;10
+Punjab National Bank;1
+Yamaha Motor;5
+Db Insurance;1
+Franklin Resources;1
+Expeditors International;8
+Wolters Kluwer;5
+Xilinx;2
+Oriental Land;5
+Goodman Group;1
+Tractor Supply;5
+Oji Holdings;9
+Invesco;1
+Lululemon Athletica;5
+Samsung SDI;2
+Zhongliang Holdings;5
+Bankinter;1
+Meiji Holdings;7
+Hesteel;9
+Coloplast;6
+KWG Group Holdings;1
+DXC Technology;5
+Jiangxi Copper;9
+China Resources Gas Group;3
+Darden Restaurants;5
+Aeroports de Paris;8
+Garmin;5
+Hydro One;10
+Datang International Power;10
+Daito Trust Construction;8
+LG Display;2
+Howmet Aerospace;8
+Storebrand;1
+Valeo;5
+AntarChile;1
+Bunge;7
+Segro;1
+NEXON;2
+Ayala Corp;8
+Skyworks Solutions;2
+360 Security Technology;2
+Canara Bank;1
+Arista Networks;2
+Naver;2
+Saputo;7
+Shanghai Commercial & Savings Bank;1
+Bankia;1
+Insurance Australia Group;1
+Ahli United Bank;1
+Transurban Group;8
+Olam International;7
+Halkbank;1
+Mohawk Industries;5
+Hexagon;8
+AGC;9
+J.B. Hunt Transport Services;8
+Zions Bancorp;1
+Hess;3
+Power Assets Holdings;10
+Jones Lang LaSalle;1
+OMRON;2
+GAIL India;10
+Annaly Capital Management;1
+HNA Technology;8
+Masraf Al Rayan;1
+Realty Income;1
+KPN;4
+Wuchan Zhongda Group;9
+Midea Real Estate Holding;8
+Sasol;9
+Cosmo Energy Holdings;3
+Citrix Systems;2
+Copart;5
+Cerner;6
+Wm Morrison Supermarkets;7
+Umicore;9
+Brenntag;9
+Metro Group;7
+Check Point Software;2
+Banca Mediolanum;1
+Kintetsu;8
+Hyundai Steel;9
+Bank of Jinzhou;1
+Popular;1
+Yonghui Superstores;7
+China Galaxy Securities;1
+Shenzhou International Group Holdings;5
+Fidelity National Financial;1
+NetApp;2
+Hyundai Marine & Fire;1
+Emera;10
+3i Group;1
+Lotte Shopping;5
+Melrose Industries;8
+Bank of Chongqing;1
+Mahindra & Mahindra;5
+TCL;5
+Korea Investment Holdings;1
+BCI-Banco Credito;1
+RHB Bank;1
+ALFA;8
+Unicharm;7
+Maxim Integrated Products;2
+Shinsei Bank;1
+Signature Bank;1
+Penske Automotive;5
+Concordia Financial Group;1
+Hyundai Heavy Industries Holdings;8
+MSCI;5
+Chiba Bank;1
+Jiangsu Zhangjiagang Rural Commercial Bank;1
+Verbund;10
+Keysight Technologies;2
+Ventas;1
+Samsung SDS;2
+Harbin Bank;1
+Hopson Development Holdings;1
+Mirae Asset Daewoo;1
+SYNNEX;2
+Westinghouse Air Brake Technologies;2
+Church & Dwight;7
+Luzhou Lao Jiao;7
+Alliant Energy;10
+Tenet Healthcare;6
+Mizrahi Tefahot Bank;1
+Sunny Optical Technology Group;6
+Schaeffler;5
+China Shipbuilding Industry;8
+Smith & Nephew;6
+Tingyi Holding;7
+CJ Cheiljedang;7
+Cemex;9
+Woodside Petroleum;3
+Spotify Technology;2
+Bandai Namco Holdings;5
+Doosan;8
+Qantas Airways;8
+Quinenco;8
+Times Property Holdings;8
+East West Bancorp;1
+Starwood Property Trust;1
+Ooredoo Q.P.S.C;4
+People's United Financial;1
+RenaissanceRe Holdings;8
+Dentsu;5
+Banco Btg Pactual;1
+Bombardier;8
+Celanese;9
+Yunnan Baiyao Group;6
+Zhongyuan Bank;1
+AGL Energy;10
+Jacobs;2
+Cathay Pacific Airways;8
+Bank of India;1
+Hunan Valin Steel;9
+Bausch Health Companies;6
+Keppel;8
+Greentown China Holdings;1
+Cincinnati Financial;1
+IndusInd Bank;1
+BorgWarner;5
+Host Hotels & Resorts;1
+Canadian Tire;5
+Geberit;9
+Bank Pekao;1
+YPF;3
+Weyerhaeuser;1
+Covivio;1
+Old Dominion Freight Line;8
+Wuestenrot & Wuerttembergische;1
+Kobe Steel;9
+SG Holdings;8
+Ronshine China Holdings;8
+Migdal Insurance;1
+Packaging Corp of America;9
+B3;1
+Match Group;2
+Smurfit Kappa Group;9
+Red Eléctrica;10
+VEON;4
+Coca-Cola HBC;7
+Fastighets Balder;1
+Bank of Zhengzhou;1
+SLM;1
+Mebuki Financial Group;1
+Tech Data;2
+China Feihe;7
+Aramark;5
+Meritz Financial Group;1
+Suzano Papel e Celulose;9
+Israel Discount Bank;1
+ResMed;6
+China Grand Automotive Services;5
+JG Summit Holdings;8
+Henry Schein;6
+Arkema;9
+Advance Auto Parts;5
+Norwegian Cruise Line Holdings;5
+Bank of Guizhou;1
+Burlington Stores;7
+Great Wall Motor;5
+Vulcan Materials;9
+Alaska Air Group;8
+Chow Tai Fook Jewellery;5
+Hang Lung Group;1
+Iida Group Holdings;8
+Meritz Securities;1
+XPO Logistics;8
+Chang Hwa Bank;1
+Cencosud;5
+Nomura Research Institute;2
+Huntington Ingalls Industries;8
+ICA Gruppen;7
+Zain;4
+Cenovus Energy;3
+Synopsys;2
+Sistema;4
+Medipal Holdings;6
+Alstom;8
+Banque Cantonale Vaudoise;1
+Avery Dennison;9
+China National Chemical;8
+Hyundai Engineering;8
+BNK Financial Group;1
+Covestro;9
+RSA Insurance Group;1
+Bunzl;5
+China Resources Cement Holdings;9
+Shanghai International Airport;8
+Mettler-Toledo International;8
+SS&C Technologies;2
+Taishin Financial Holdings;1
+Beijing Capital Development;1
+Lixil Group;9
+AGNC Investment;1
+Far East Horizon;5
+LEG Immobilien AG;1
+Nippon Paint;9
+New Residential Investment;1
+Grupo Bimbo;7
+Sino-Ocean Group Holding;1
+Sumitomo Metal Mining;9
+Lindt & Sprungli;7
+Bawag Group;1
+SCA;9
+Verisk Analytics;5
+Masco;9
+Husky Energy;3
+Alexandria Real Estate Equities;1
+BPER Banca;1
+S-Oil;3
+Guangdong Investment;10
+Commercial Bank For Investment & Development Of Vietnam;1
+Arrow Electronics;2
+AutoNation;5
+Caesars Entertainment;5
+NiSource;10
+Metropolitan Bank & Trust;1
+Bank of East Asia;1
+Western Union;5
+Atmos Energy;10
+Commercial International Bank;1
+Persimmon;8
+Norsk Hydro;9
+KION Group;8
+STRABAG;8
+China Molybdenum;9
+Sofina;1
+Halyk Bank;1
+Arab Bank;1
+Barratt Developments;8
+Zhejiang Zheneng Electric Power;10
+Hong Leong Financial;1
+Colruyt;7
+Shizuoka Bank;1
+Abu Dhabi Islamic Bank;1
+Arca Continental;7
+Cattolica Assicurazioni;1
+Yuexiu Property;1
+SKF Group;8
+iHeartMedia;5
+Navient;1
+Teleflex;2
+Korea Shipbuilding & Offshore Engineering;8
+Weatherford International;3
+Ansys;2
+Sun Pharma Industries;6
+China International Marine;8
+IDEXX Laboratories;6
+NARI Technology Development;8
+Empire;7
+China Communications Services;4
+Onex;1
+Nordstrom;5
+Synovus Financial;1
+Kerry Properties;8
+Pinnacle West;10
+UBI Banca;1
+Hainan Airlines;8
+Nippon Yusen;8
+Tiffany & Co.;5
+Hologic;6
+AECOM Technology;8
+China Conch Venture Holdings;8
+Mashreq Bank;1
+Bank Audi;1
+E-mart;5
+Teleperformance;4
+Ajinomoto;7
+International Flavors & Fragrances;7
+Xerox;8
+Electric Power Development;10
+Saudi Arabian Mining;9
+Kawasaki Heavy Industries;8
+Union Bank of India;1
+Newcrest Mining;9
+China Merchants Port Holdings;8
+Reliance Steel;9
+Incyte;6
+Gudang Garam;7
+Ceconomy;5
+China International Travel Service;5
+Shopify;2
+Chipotle Mexican Grill;5
+OneMain Holdings;8
+AIB Group;1
+Live Nation Entertainment;5
+DCC;8
+EMS-Chemie Holding;9
+Shimano;5
+Steel Dynamics;9
+Technipfmc;3
+Xiamen International Trade Group;8
+Ternium;9
+Bajaj Auto;5
+US Foods;7
+Dai Nippon Printing;5
+Vingroup;6
+Epiroc;9
+Magnitogorsk Iron & Steel;9
+Magnit;7
+Santos;3
+Booz Allen Hamilton Holding;5
+Flex;2
+Sekisui Chemical;8
+Akamai Technologies;2
+CPFL Energia;10
+Manpower;5
+Kansas City Southern;8
+Enstar Group;1
+Petronas Chemicals;9
+Square;2
+Wayfair;5
+Martin Marietta Materials;9
+American National Insurance;1
+Essex Property Trust;1
+Sonova Holding;6
+Grupo Inbursa;1
+Korean Air;8
+Mitsubishi Materials;9
+Antofagasta;9
+Compal Electronics;2
+Blom Bank;1
+Safaricom;4
+Johnson Matthey;9
+Fgl Holdings;8
+KT&G;7
+Next;5
+BOK Financial;1
+Voestalpine;9
+Sichuan Languang Development;8
+Wendel;1
+Banca MPS;1
+SinoPac Financial;1
+Jabil Circuit;2
+AVIC Capita;1
+PTT Global Chemical;9
+Xiamen Xiangyu;8
+Commercial Bank of Qatar;1
+Barry Callebaut;7
+IAC/InterActiveCorp;5
+NH Investment & Securities;1
+Industries Qatar;9
+Jyske Bank;1
+Mercuries & Associates;5
+Alfresa Holdings;6
+Hertz Global Holdings;1
+Hokuhoku Financial Group;1
+Hyundai Glovis;8
+Ramsay Health Care;6
+Autodesk;2
+INTL FCStone;1
+ONO Pharmaceutical;6
+President Chain Store;7
+Lendlease Group;1
+Wirecard;2
+CSPC Pharmaceutical Group;8
+World Fuel Services;5
+Vietin Bank;1
+Asian Paints;9
+Goodyear;5
+Mitsui Chemicals;9
+Atlassian;2
+RTL Group;5
+Qurate Retail Group;5
+Zoom Video Communications;2
+Yamato Holdings;8
+Novozymes;6
+Dexus;1
+Virgin Money UK;1
+Cooper Companies;8
+Gap;5
+New York Community Bancorp;1
+Canadian Utilities;10
+Nippon Express;8
+Workday;2
+Otsuka;8
+Koito Manufacturing;5
+Taiwan Cement;9
+Teck Resources;9
+Hansoh Pharmaceutical Group;8
+Almarai;7
+Agnico Eagle Mines;8
+Showa Denko;9
+Cellnex Telecom;4
+Qingdao Rural Commercial Bank;1
+Braskem;9
+Continental Resources;3
+Avis Budget Group;1
+Kyushu Financial Group;1
+Nishi-nippon Financial Holdings;1
+Hachijuni Bank;1
+Zoomlion Heavy Industry;8
+SBA Communications;4
+Hulic;8
+Waters;6
+Yamaguchi Financial;1
+Wistron;2
+Hengyi Petrochemical;3
+Latam Airlines;8
+Kesko;7
+Hengan International Group;7
+Wingtech Technology;2
+Franco-Nevada;1
+North Pacific Bank;1
+Banco Comercial Portugues;1
+Kingfisher;5
+Banco Davivienda;1
+DexCom;6
+Japan Securities;1
+Acciona;8
+China Longyuan Power;10
+Pinduoduo;5
+Adyen;2
+Bank of Kyoto;1
+Mitsui OSK Lines;8
+Hiroshima Bank;1
+WEG;2
+Rajesh Exports;7
+Sino Biopharmaceutical;6
+Lundin Energy;3
+MercadoLibre;2
+Taylor Wimpey;8
+Renesas Electronics;2
+Hotai Motor;8
+Daishi Hokuetsu Financial Group;1
+Kinross Gold;1
+Unisplendour;2
+Veeva Systems;2
+Tahoe Group;8
+PGE Polska Grupa Energetyczna;10
+Steinhoff International;5
+Beijing Shougang;10
+Teradyne;8
+United Natural Foods,;7
+PBF Energy;3
+Zalando;5
+Chugoku Bank;1
+LG Uplus;4
+Royal Mail;8
+77 Bank;1
+Shandong Gold Mining;9
+Powerlong Real Estate;1
+Cemig;10
+Gunma Bank;1
+Invitation Homes;5
+Berry Global Group;9
+China Development Bank Financial Leasing;1
+Genting;5
+Nippon Steel Trading;9
+FMC;9
+Interactive Brokers Group;1
+Tenneco;5
+Tokyu Fudosan;1
+Haidilao International Holding;5
+Performance Food Group;7
+Domino's Pizza;5
+Ultrapar Participacoes;3
+Hubei Biocause Pharmaceutical;8
+Snap;2
+Eurobank Ergasias;1
+Companhia Brasileira de Distribuicao;7
+Fibra Uno;8
+First Citizens Bank;1
+Pgnig Group;3
+National Bank of Greece;1
+Zebra Technologies;2
+Tsim Sha Tsui Properties;1
+Vodafone Idea;4
+Alpha Bank;1
+Community Health Systems;6
+Rite Aid;7
+Xylem;8
+IHI;8
+M3;11
+Bank Muscat;1
+Accor;5
+American Equity Investment;1
+Iyo Bank;1
+Lens Technology;2
+TP ICAP;1
+Piraeus Bank;1
+XCMG Construction Machinery;8
+Air Lease;5
+Commerce Bank;1
+CoStar Group;2
+Grupo Bolivar;5
+Bank of Suzhou;1
+Seattle Genetics;8
+Sinotruk Hong Kong;8
+Harel Insurance Investments & Financial Services;1
+Avary Holding (Shenzhen);8
+Liberty Broadband;4
+Jiangxi Bank;1
+Unibail-Rodamco;1
+CPI Property Group;8
+Daelim Industrial;8
+Moscow Exchange;1
+Minebea;8
+PVH;5
+News Corp;5
+Brambles;5
+JetBlue Airways;8
+SDIC Capital;7
+Haseko;8
+Deutsche Pfandbriefbank;1
+Western Alliance Bancorp.;1
+Celltrion;6
+Unicaja Banco;1
+Wuxi Apptec;8
+Aristocrat Leisure;5
+Bank of Xi'an;1
+China Aviation Oil;8
+Alrosa;9
+SBI Holdings;1
+Suzuken;6
