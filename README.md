@@ -4,6 +4,10 @@ This is a project I started a while ago and never actually finished. I dug it ba
 
 This is the result. It ain't exactly high-art, and the legacy database schema was a total nightmare to work with, but it's officially "functional" now.
 
+
+https://github.com/user-attachments/assets/e7577616-012c-4fac-90ba-8dd75ef4b4e1
+
+
 ### Archived
 This is just for practice. It's going straight into the archives. Don't expect production-grade code here—expect a lot of "Nuke and Pave" logic that was required just to get the database to stop crying.
 
